@@ -1,7 +1,7 @@
 # Python-Sockets
 
-Trabalho da disciplina Redes de Computadores 2
-Comunicação utilizando sockets, implementada em python
+Trabalho da disciplina Redes de Computadores 2, 
+Comunicação utilizando sockets e implementada em python
 
 # Como funciona
 
